@@ -2,4 +2,9 @@ Milk
 Break
 Bananas
 Eggs
+apple
+orange
+water
+juice
+
 
